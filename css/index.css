@@ -25,3 +25,7 @@ body { background-color: rgb(209, 180, 92); font-family: Arial, sans-serif; marg
     }
     img { max-width: 350px; height: 200px; }
     .container { max-width: 900px; margin: auto; }
+
+    p {
+      color: rgb(97, 39, 39);
+    }

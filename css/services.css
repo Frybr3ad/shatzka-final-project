@@ -26,3 +26,7 @@
     img { max-width: 550px; height: 300px; }
     .container { max-width: 900px; margin: auto; }
     .service-item { margin-bottom: 2em; }
+
+    p {
+        color: #873939;
+    }
