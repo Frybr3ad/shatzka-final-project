@@ -1,4 +1,10 @@
-body { background-color: rgb(209, 180, 92); font-family: Arial, sans-serif; margin: 0; padding: 0; }
+body {
+  /* background-image: url(/img/background3.png); */
+  background-color: rgb(209, 180, 92); font-family: Arial, sans-serif; margin: 0; padding: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+ }
     nav {
       background-color: #873939;
       padding: 1em;
@@ -9,8 +15,9 @@ body { background-color: rgb(209, 180, 92); font-family: Arial, sans-serif; marg
     .logo { height: 100px; }
     .nav-links {
       display: flex;
-      gap: 5em;
-      margin: 0 auto;
+      gap: 6em;
+      margin:0 auto;
+
     }
     nav a {
       color: white;

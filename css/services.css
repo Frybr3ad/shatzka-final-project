@@ -9,7 +9,7 @@
     .logo { height: 100px; }
     .nav-links {
       display: flex;
-      gap: 5em;
+      gap: 6em;
       margin: 0 auto;
     }
     nav a {
